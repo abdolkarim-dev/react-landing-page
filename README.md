@@ -3,7 +3,7 @@
 # 🚀 React Component-Based Website
 ### Modern & Scalable Front-End Application
 
-<img src="./preview.png" alt="Project Preview" width="80%" />
+<img src="./public//preview.png" alt="Project Preview" width="80%" />
 
 <br/><br/>
 
