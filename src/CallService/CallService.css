@@ -1,0 +1,37 @@
+@font-face {
+  font-family: "Dana";
+  src: url("../../public/Dana-Regular.ttf") format("truetype");
+  font-family: "Dana";
+}
+.CallService{
+    margin: 5rem auto ;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../public/cta-bg.jpg");
+    /* background-image: url('../../public/cta-bg.jpg') , ; */
+    height: 20rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;  
+}
+.containerService{
+    width: 70%;
+}
+.CallService h1{
+  font-family: 'Dana';
+}
+
+.CallService p{
+    margin-top: 1rem;
+  color:#fff;
+   font-family: 'Dana';
+   text-align: justify;
+}
+
+.CallService button{
+     margin-top: 1rem;
+     border-color: #fff;
+}
+.CallService button:hover{ 
+     border-color: #ffc451;
+}

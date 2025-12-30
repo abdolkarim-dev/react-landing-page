@@ -1,0 +1,52 @@
+.container-feature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  margin: 0 auto 5rem auto;
+  gap: 33px; 
+}
+.FeaturesSection {
+  width: 549px;
+  height: 468px;
+}
+ .all-feature h1{
+  color: black;
+  font-size: 2rem;
+ }
+ .all-feature p {
+  margin: 1.1rem auto;
+ }
+.feature-new { 
+  display: flex;
+  justify-content: start;  
+  gap:3rem;
+  margin-bottom: 3rem;
+}
+.feature-tag{
+  width: 40%;
+}
+.logologo {
+  float: right;
+  display: block;
+  width: 40px;
+  height: 40px;
+}
+.h1-feature {
+    display: inline-block; 
+    color: black;
+    margin-right: 10px;
+    font-size: 3rem;
+    margin-top: -9px;}
+
+.p-feature {
+  font-size: 15px;
+  text-align: justify;
+  color: #848484;
+  margin-top: 7px;
+  text-indent: 3rem;
+}
+
+.text-aling {
+  margin-right: 10px;
+}

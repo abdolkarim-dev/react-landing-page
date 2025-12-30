@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "IranSan";
+  src: url("../../public/irsans.ttf") format("truetype");
+  font-family: "IranSan";
+}
+@font-face {
+  font-family: "Dana";
+  src: url("../../public/Dana-Regular.ttf") format("truetype");
+  font-family: "Dana";
+}
+.ServicesSection {
+  margin-top: 5rem;
+}
+.title-ServicesSection {
+  font-family: "IranSan", sans-serif;
+  display: "flex";
+  align-items: center;
+  margin: auto;
+  width: 70%;
+}
+.title-ServicesSection p {
+  color: #aaaaaa;
+  font-size: 20px;
+}
+.title-ServicesSection h1 {
+  font-size: 40px;
+  color: black;
+  font-family: "IranSan", sans-serif;
+} 
+.box-ServicesSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  width: 400px;
+  margin: 5rem auto auto auto;
+  padding: 30px 30px;
+}
+.box-service-flex {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
+}
+.icon {
+  width: 60px;
+  height: 60px;
+  background-color: #ffc451;
+  border-radius: 5px;
+  display: grid;
+  place-items: center;
+}
+.icon img {
+  filter: brightness(0);
+  margin: auto;
+}
+.box-ServicesSection h4 {
+  font-size: 30px;
+  font-family: "dana";
+  margin-top: 15px;
+}
+.box-ServicesSection p {
+  font-size: 14px;
+  line-height: 24px;
+  text-align: justify;
+  font-family: "dana";
+}
+.box-ServicesSection h4:hover {
+  color: #ffc451;
+}

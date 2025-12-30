@@ -1,0 +1,28 @@
+.box-section {
+  border: 1px solid #fff;
+  text-align: center;
+  width: 200px;
+  height: 130px;
+  margin-top: 5rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+img {
+  width: 30px;
+  height: 30px;
+  color: #ffc451;
+}
+.box-work {
+  font-size: 1.5rem;
+  padding: 25px 20px;
+  color: #fff;
+}
+
+.box-style-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+}

@@ -1,0 +1,41 @@
+.container-feature {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 70%;
+  margin: 0 auto 5rem auto;
+  gap: 33px;
+}
+.FeaturesSection {
+  width: 660px;
+  height: 413px;
+}
+.all-feature{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 413px;
+}
+.feature {
+  display: flex; 
+}
+
+.logologo {
+  width: 40px;
+  height: 40px;
+}
+.h1-feature {
+  color: black;
+  font-size: 20px;
+  font-weight: 700;
+}
+.p-feature {
+  font-size: 17px;
+  text-align: justify;
+  color: #848484;
+  margin-top: 7px;
+}
+
+.text-aling {
+  margin-right: 10px;
+}

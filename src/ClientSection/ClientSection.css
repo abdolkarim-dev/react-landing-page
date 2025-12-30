@@ -1,0 +1,19 @@
+.ClientSection {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  margin: 15rem auto 5rem auto;
+}
+.ClientSection-img {
+  filter: grayscale(100%);
+  opacity: 0.5;
+  width: 115px;
+  height: 47px;
+}
+
+.ClientSection-img:hover {
+  opacity: 1;
+  filter: none;
+  transition: all 300ms linear;
+}

@@ -1,0 +1,33 @@
+.abdout-container {
+  display: flex;
+  justify-content: space-between;
+  height: 24rem; 
+  margin-top: 5rem;
+  width: 70%;
+  margin: 5rem auto 0 auto;
+}
+.text-right{
+    padding-left: 12px;
+    width: 630px;
+}
+.sh-right{
+    color: black; 
+}
+.img-content {
+  width: 630px;
+  height: 470px;
+  padding-right: 12px;
+}
+.text-right p{
+    margin-top: 1rem;
+    font-size: 1rem;
+    text-align:  justify;
+    color: #444444;
+    line-height: 1.8rem;
+    height: 470px;
+    overflow: auto;
+}
+.sh-right{
+    font-size: 2rem;
+    color: #444444;
+}
